@@ -28,4 +28,4 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          output_dir: dist
+          build_dir: dist
