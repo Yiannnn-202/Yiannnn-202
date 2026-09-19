@@ -1,94 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=ian.chien&desc=Deep%20Learning%20%C3%97%20Embodied%20Intelligence%20%C3%97%20Unity&fontAlignY=36&descAlignY=58&fontSize=48&fontColor=ffffff&animation=fadeIn&color=0:00E5FF,100:2979FF" width="100%" alt="wave header" />
+<img src="./assets/hero.svg" width="100%" alt="Ian Chien — building intelligent systems that perceive, reason, and act" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=0369A1&center=true&vCenter=true&width=730&lines=Hi+there%2C+I%27m+Ian+%F0%9F%91%8B;Deep+Learning+%C3%97+Embodied+Intelligence+%C3%97+Unity;Turning+raw+signals+into+intelligence+%F0%9F%A7%A0)](https://git.io/typing-svg)
+<br>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Yiannnn-202&color=00E5FF&style=flat-square&label=Profile+Views" alt="profile views" />
-</p>
+[![Email](https://img.shields.io/badge/Email-071A3D?style=flat-square&logo=gmail&logoColor=white)](mailto:yiannnn202@gmail.com)
+[![Island Team](https://img.shields.io/badge/Island_Team-126BCE?style=flat-square&logo=github&logoColor=white)](https://github.com/Island-Team)
+[![Nanjing](https://img.shields.io/badge/Nanjing%2C_China-FFFFFF?style=flat-square&logo=googlemaps&logoColor=4285F4&labelColor=FFFFFF&color=E8F0FE)](https://www.njupt.edu.cn/)
+
+</div>
+
+## Hello, I'm Ian
+
+I'm a student at **Nanjing University of Posts and Telecommunications**, building at the intersection of deep learning, embodied intelligence, agent systems, and interactive simulation.
+
+I care about the full loop: turning raw sensor signals into perception, turning intent into plans, and turning plans into safe actions in simulated and physical worlds.
+
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <h3>◉ Deep Learning</h3>
+      <p>Vision, signal processing, multimodal perception, and model deployment.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>◇ Embodied AI</h3>
+      <p>Perception–action loops, robot manipulation, and sim-to-real systems.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>✦ Agents</h3>
+      <p>Planning, tools, memory, workflows, and safety-gated execution.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>△ Unity</h3>
+      <p>Interactive simulation, virtual laboratories, and scientific visualization.</p>
+    </td>
+  </tr>
+</table>
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Yiannnn-202/SensorAgent">SensorAgent ↗</a></h3>
+      <p><strong>An agent runtime for embodied tasks.</strong></p>
+      <p>Connects task understanding, skill and tool orchestration, multimodal input, robot simulation, and safety-gated hardware adapters.</p>
+      <p><code>Python</code> <code>ROS 2</code> <code>Gazebo</code> <code>MoveIt 2</code> <code>MCP</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Yiannnn-202/Sensotelligence">Sensotelligence ↗</a></h3>
+      <p><strong>From radar signals to health intelligence.</strong></p>
+      <p>A contactless vital-sign monitoring platform spanning mmWave sensing, signal processing, deep-learning inference, and real-time analysis.</p>
+      <p><code>PyTorch</code> <code>FastAPI</code> <code>WebSocket</code> <code>React</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Yiannnn-202/ElectroOptic-Lab-Unity">ElectroOptic Lab ↗</a></h3>
+      <p><strong>A virtual electro-optics laboratory in Unity.</strong></p>
+      <p>Combines crystal optics, polarization, GPU visualization, interactive experiments, data analysis, and report generation.</p>
+      <p><code>Unity</code> <code>C#</code> <code>HLSL</code> <code>Scientific Computing</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Island-Team">Island Team ↗</a></h3>
+      <p><strong>Building embodied intelligence from cognition to action.</strong></p>
+      <p>Exploring modular robot cognition, perception and models, typed system boundaries, simulation, and controlled physical execution.</p>
+      <p><code>Embodied AI</code> <code>Agent</code> <code>Robotics</code> <code>Sim-to-Real</code></p>
+    </td>
+  </tr>
+</table>
+
+## Toolbox
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-071A3D?style=flat-square&logo=python&logoColor=4285F4)
+![PyTorch](https://img.shields.io/badge/PyTorch-071A3D?style=flat-square&logo=pytorch&logoColor=EA4335)
+![OpenCV](https://img.shields.io/badge/OpenCV-071A3D?style=flat-square&logo=opencv&logoColor=34A853)
+![ROS 2](https://img.shields.io/badge/ROS_2-071A3D?style=flat-square&logo=ros&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-071A3D?style=flat-square&logo=unity&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-071A3D?style=flat-square&logo=sharp&logoColor=34A853)
+![C++](https://img.shields.io/badge/C%2B%2B-071A3D?style=flat-square&logo=cplusplus&logoColor=4285F4)
+![Linux](https://img.shields.io/badge/Linux-071A3D?style=flat-square&logo=linux&logoColor=FBBC05)
+![Docker](https://img.shields.io/badge/Docker-071A3D?style=flat-square&logo=docker&logoColor=4285F4)
+![Git](https://img.shields.io/badge/Git-071A3D?style=flat-square&logo=git&logoColor=EA4335)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 Student @ **Nanjing University of Posts and Telecommunications (NJUPT)**
-- 🔭 Currently building **[Sensotelligence](https://github.com/Yiannnn-202/Sensotelligence)** — sensor-based intelligent systems
-- 🧠 Deep learning enthusiast — teaching sensors to *see*, *hear* and *think*
-- 🎮 Crafting Unity simulations for electro-optic experiments
-- 💬 Ask me about **sensors · deep learning · Unity · Python**
-- 📫 How to reach me: [yiannnn202@gmail.com](mailto:yiannnn202@gmail.com)
-- ⚡ Fun fact: I turn noisy signals into decisions
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-**Languages & Core**
+### Let's build intelligence that can meet the real world.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<sub>Open to conversations about embodied agents, multimodal perception, robotics, and simulation.</sub>
 
-**AI & Deep Learning**
+<br><br>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-
-**Engines · Hardware · Tools**
-
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Yiannnn-202&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="160" src="https://streak-stats.demolab.com/?user=Yiannnn-202&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yiannnn-202&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=Yiannnn-202&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="trophies" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yiannnn-202/Yiannnn-202/output/snake-dark.svg" />
-    <img width="85%" src="https://raw.githubusercontent.com/Yiannnn-202/Yiannnn-202/output/snake.svg" alt="contribution snake animation" />
-  </picture>
-</p>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn&color=0:00E5FF,100:2979FF" width="100%" alt="wave footer" />
+[Email](mailto:yiannnn202@gmail.com) · [Projects](https://github.com/Yiannnn-202?tab=repositories) · [Island Team](https://github.com/Island-Team)
 
 </div>
